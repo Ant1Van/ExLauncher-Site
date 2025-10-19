@@ -1,0 +1,5 @@
+Добавь сюда:
+- cover.jpg (обложка Cyberpunk 2077)
+- screenshot1.jpg (скриншот 1)
+- screenshot2.jpg (скриншот 2)
+- screenshot3.jpg (скриншот 3)
